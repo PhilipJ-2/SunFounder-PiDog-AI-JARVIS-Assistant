@@ -22,7 +22,7 @@ The project combines:
 - 🌐 Embedded Linux development
 - 📡 Remote SSH/VNC workflows
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 # ✨ Features
 
@@ -36,7 +36,7 @@ The project combines:
 - Modular Python subsystem design
 - Multi-folder engineering project organization
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 # 🛠 Hardware Used
 
@@ -49,7 +49,7 @@ The project combines:
 - Wireless networking
 - Embedded Linux environment
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 # 🧠 Engineering Concepts Demonstrated
 
@@ -64,7 +64,7 @@ The project combines:
 - Remote System Development
 - Hardware/Software Debugging
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 # 📂 Repository Structure
 
