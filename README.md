@@ -5,7 +5,7 @@
 ![AI Robotics](https://img.shields.io/badge/Field-AI%20Robotics-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ The **SunFounder PiDog AI JARVIS Assistant** project is a Raspberry Pi powered r
 
 The project combines robotics, Python automation, embedded Linux systems, servo control, AI assistant concepts, and modular subsystem design into a unified robotic platform.
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ The project combines robotics, Python automation, embedded Linux systems, servo 
 - Multi-folder engineering project organization
 - SSH and VNC remote workflows
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🛠 Hardware Used
 
@@ -41,7 +41,7 @@ The project combines robotics, Python automation, embedded Linux systems, servo 
 - Wireless networking
 - Embedded Linux environment
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🔊 System Workflow
 
@@ -55,7 +55,7 @@ Voice Input
 → System Response
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🧠 Engineering Concepts Demonstrated
 
@@ -70,7 +70,7 @@ Voice Input
 - Remote System Development
 - Hardware/Software Debugging
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📂 Repository Structure
 
@@ -88,7 +88,7 @@ SunFounder-PiDog-AI-JARVIS-Assistant/
 └── README.md
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ⚙️ Development Stages
 
@@ -107,7 +107,7 @@ AI behavior systems and local assistant interaction concepts.
 ### Final System
 Integrated robotics platform combining AI workflows, servo control, voice interaction, and camera systems.
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📊 Python & System Development
 
@@ -121,7 +121,7 @@ Python scripts were used for:
 - Camera and object tracking concepts
 - Embedded Linux automation
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📷 Project Photos
 
@@ -134,13 +134,13 @@ Python scripts were used for:
 ### Camera and Vision System
 ![Camera System](Images/camera_system.jpg)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🎥 Demo Video
 
 [Watch Project Demo](Videos/pidog_demo.mp4)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🚀 Future Improvements
 
@@ -153,7 +153,7 @@ Python scripts were used for:
 - Web dashboard monitoring
 - Advanced robotics behaviors
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 👨‍💻 Author
 
