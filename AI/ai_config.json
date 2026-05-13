@@ -1,1 +1,13 @@
-
+{
+  "assistant_name": "JARVIS",
+  "model_type": "local_llm",
+  "default_model": "llama3",
+  "response_style": "short",
+  "robot_platform": "SunFounder PiDog",
+  "features": [
+    "voice interaction",
+    "behavior control",
+    "local AI responses",
+    "robot status feedback"
+  ]
+}
