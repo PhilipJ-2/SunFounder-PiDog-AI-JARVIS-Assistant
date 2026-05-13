@@ -1,1 +1,8 @@
-
+{
+  "camera_enabled": true,
+  "resolution": "640x480",
+  "frame_rate": 30,
+  "tracking_mode": "object",
+  "robot_platform": "SunFounder PiDog",
+  "assistant_name": "JARVIS"
+}
