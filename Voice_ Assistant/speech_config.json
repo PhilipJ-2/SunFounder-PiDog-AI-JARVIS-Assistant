@@ -1,1 +1,7 @@
-
+{
+  "wake_word": "jarvis",
+  "language": "en-US",
+  "tts_voice": "default",
+  "listen_timeout_seconds": 5,
+  "response_style": "short"
+}
