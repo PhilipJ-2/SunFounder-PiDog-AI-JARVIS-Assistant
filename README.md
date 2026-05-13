@@ -5,7 +5,7 @@
 ![AI Robotics](https://img.shields.io/badge/Field-AI%20Robotics-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📖 Overview
 
